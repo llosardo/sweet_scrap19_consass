@@ -1,0 +1,13 @@
+footer {
+    grid-area: footer;
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content:space-between;
+    padding: 8rem;
+    footer ul li {
+        display: inline-block;
+        justify-content: space-between;
+        }
+}
